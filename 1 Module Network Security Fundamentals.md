@@ -75,5 +75,61 @@ by the system or service
 
 ![image](https://user-images.githubusercontent.com/58091942/178811173-50fa66cf-3920-45b3-a5bd-3a8e40364e3b.png)
 
+ ## Network Defense Benefits
+- Protect information assets
+- Comply with government and industry specific
+regulations
+- Ensure secure communication with clients and suppliers
+- Reduce the risk of being attacked
+- Gain competitive edge over competitor
+by providing more secure services
   
-  
+## Network Defense Challenges
+
+### Distributed Computing
+
+ - Environments
+ With the advancement in
+ modern technology and to
+ meet business requirements,
+ networks are becoming vast
+ and complex,potentially
+ leading to serious security
+ vulnerabilities.Attackers
+ exploit exposed security
+ vulnerabilities to
+ compromise network
+ security
+
+### Emerging Threats
+
+- Potential threats to the
+network evolve each day.
+Network security attacks
+are becoming technically
+more sophisticated and
+better organized
+
+### Lack of Network
+
+- Security Skills
+Organizations are failing
+to defend themselves
+against rapidly increasing
+network attacks due to
+the lack of network
+security skills
+
+![image](https://user-images.githubusercontent.com/58091942/178812812-bbbb7eea-9678-4d6a-9c5a-cf95cf1e40ea.png)
+
+
+ ## Network Security Controls:
+ ##    Administrative Security Controls
+          
+   The management implements administrative access controls to ensure the safety of the organization
+       Examples of Administrative Security Controls
+ - Regulatory framework Compliance
+- Employee Monitoring and Supervising
+ - Security policy
+  - Information Classification
+   - Security Awareness and Training
