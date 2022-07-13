@@ -61,6 +61,19 @@ by unauthorized parties
 
 ![image](https://user-images.githubusercontent.com/58091942/178810401-1a9feb2c-c011-4be6-9f90-32ba9355f679.png)
 
+## Information Assurance(IA)Principles(Cont'd)
+
+## Non-repudiation
+Ensures thataparty inacommunication
+cannot deny sending the message
+ 
+ ![image](https://user-images.githubusercontent.com/58091942/178810993-2fddad46-1c53-461b-8e5a-a2ab2c44e25e.png)
+ 
+ ## Authentication
+Ensures the identity of an individual is verified
+by the system or service
+
+![image](https://user-images.githubusercontent.com/58091942/178811173-50fa66cf-3920-45b3-a5bd-3a8e40364e3b.png)
 
   
   
